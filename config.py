@@ -7,6 +7,6 @@ CHUNK_OVERLAP = 50
 
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
-OLLAMA_MODEL = "llama3"
+OPENAI_MODEL = "gpt-3.5-turbo"
 
 TOP_K_RESULTS = 3
