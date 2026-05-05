@@ -1,4 +1,4 @@
-"la classe qui gère le modèle LLM"
+"Manage the LLM model"
 from langchain_openai import ChatOpenAI
 
 
